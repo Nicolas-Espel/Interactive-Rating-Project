@@ -1,7 +1,7 @@
 /*main CSS folder that holds all of the subfolders to help keep it clean, only need to add this CSS folder to index.HTML*/
 
-@import url(/CSS/globals.css);
-@import url(/CSS/header.css);
-@import url(/CSS/content.css);
-@import url(/CSS/button.css);
-@import url(/CSS/thanks.css);
+@import url(CSS/globals.css);
+@import url(CSS/header.css);
+@import url(CSS/content.css);
+@import url(CSS/button.css);
+@import url(CSS/thanks.css);
