@@ -1,0 +1,39 @@
+/*rating screen*/
+.header {
+    border: solid hsl(213, 19%, 18%);
+    border-radius: 25px;
+    width: 372px;
+    height: 411px;
+    margin: auto;    
+    margin-top: 176px;
+    background: hsl(213, 19%, 18%);
+}
+
+/*Star logo on initial screen*/
+.star {
+    border: solid hsl(215, 15%, 31%);
+    width: 45px;
+    height: 45px;
+    border-radius: 50px;
+    padding: 11.5px;
+    margin-left: 28px;
+    margin-top: 28px;
+    background-color: hsl(215, 15%, 31%);
+}
+
+/* thank you screen*/
+.header-two {
+    border: solid hsl(213, 19%, 18%);
+    border-radius: 25px;
+    width: 372px;
+    height: 411px;
+    margin: auto; 
+    margin-top: 176px; 
+    background: hsl(213, 19%, 18%);  
+}
+
+/*hides the thank you screen (attached to data2 class which is mother class to header-two) until JS function moves it*/
+.hide {
+    display: none;
+    pointer-events: none;
+}
